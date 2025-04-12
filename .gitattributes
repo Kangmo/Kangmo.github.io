@@ -1,2 +1,2 @@
-images/**/*.png filter=lfs diff=lfs merge=lfs -text
+images-normal/**/*.png filter=lfs diff=lfs merge=lfs -text
 images/**/*.png !text !filter !merge !diff
